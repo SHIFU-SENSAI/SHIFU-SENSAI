@@ -1,21 +1,19 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+%26+Systems+Engineer;QML+Researcher)
+
 ### Hi, I'm Siftain 👋
 
-final-year CSE student at BIT Mesra, building backend systems and exploring 
+3rd-year CSE student at BIT Mesra, building backend systems and exploring 
 Quantum Machine Learning research.
 
-- 🔭 Currently building scalable backend infrastructure (Docker, Redis, PostgreSQL)
+- 🔭 Currently building scalable backend infrastructure
 - 🔬 Researching ansatz design consistency in variational quantum classifiers
-- 🌱 Deepening my systems engineering fundamentals — caching, indexing, rate limiting
 - 🏆 Pupil on CodeForces, ICPC Prelims 2024 (Rank 647/2500+)
-- 👨‍💻 Leading the Web Dev team at Technika, BIT Mesra's tech fest
-- 📫 Reach me: btech15041.23@bitmesra.ac.in | [Portfolio](https://siftainahmad.me)
+- 📫 [Portfolio](https://siftainahmad.me)
 
 **Tech Stack**
 
-`C++` `Python` `JavaScript` `Node.js` `React` `Next.js` `PostgreSQL` `Redis` `Docker`
+`C++` `Python` `JavaScript` `Node.js` `React` `PostgreSQL` `Redis` `Docker`
 
-**Featured Projects**
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIFU-SENSAI&show_icons=true&theme=tokyonight)
 
-- 🔗 [Scalable URL Shortener] — Redis caching cut latency 95% (40ms → <1ms)
-- 🎮 [Gamified Learning Platform] — Real-time leaderboards via Supabase, <200ms updates
-- ⚖️ [Online Judge System] — Dockerized sandboxed code execution, async pipeline
+![Snake animation](https://raw.githubusercontent.com/SHIFU-SENSAI/SHIFU-SENSAI/output/github-contribution-grid-snake.svg)
