@@ -1,11 +1,11 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+%26+Systems+Engineer;QML+Researcher)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82553ecc-5f09-4b18-806d-568ad8a666c8" />![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+%26+Systems+Engineer;QML+Researcher)
 
 ### Hi, I'm Siftain 👋
 
-3rd-year CSE student at BIT Mesra, building backend systems and exploring 
+Final-year CSE student at BIT Mesra, building backend systems and exploring 
 Quantum Machine Learning research.
 
-- 🔭 Currently building scalable backend infrastructure
+- 🔭 Currently building spaced repeatition based notes taking web-app targeted for DSA
 - 🔬 Researching ansatz design consistency in variational quantum classifiers
 - 🏆 Pupil on CodeForces, ICPC Prelims 2024 (Rank 647/2500+)
 - 📫 [Portfolio](https://siftainahmad.me)
