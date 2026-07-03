@@ -14,6 +14,6 @@ Quantum Machine Learning research.
 
 `C++` `Python` `JavaScript` `Node.js` `React` `PostgreSQL` `Redis` `Docker`
 
-![Your GitHub stats](https://github-readme-stats-omega-nine.vercel.app/api?username=SHIFU-SENSAI&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SHIFU-SENSAI&show_icons=true&theme=tokyonight)
 
 ![Snake animation](https://raw.githubusercontent.com/SHIFU-SENSAI/SHIFU-SENSAI/output/github-contribution-grid-snake.svg)
