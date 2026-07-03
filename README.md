@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/82553ecc-5f09-4b18-806d-568ad8a666c8" />![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+%26+Systems+Engineer;QML+Researcher)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+%26+Systems+Engineer;QML+Researcher)
 
 ### Hi, I'm Siftain 👋
 
