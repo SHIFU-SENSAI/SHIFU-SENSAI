@@ -5,9 +5,8 @@
 Final-year CSE student at BIT Mesra, building backend systems and exploring 
 Quantum Machine Learning research.
 
-- 🔭 Currently building spaced repeatition based notes taking web-app targeted for DSA
-- 🔬 Researching ansatz design consistency in variational quantum classifiers
-- 🏆 Pupil on CodeForces, ICPC Prelims 2024 (Rank 647/2500+)
+- 🔭 Currently building a 2D Physics Engine in C++
+- 🔬 Researching on the potential usecase of Quantum Machine Learning in CyberSecurity
 - 📫 [Portfolio](https://siftainahmad.me)
 
 **Tech Stack**
